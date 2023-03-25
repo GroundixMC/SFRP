@@ -50,11 +50,6 @@ hash = "c68d3c50f65cb9542f19009c5e9030a2039a4deaaf220e3b067fe9d277a214b4"
 metafile = true
 
 [[files]]
-file = "plugins/serverjars.pw.toml"
-hash = "689f66dc866ac211a0161c11f847f7e810e6378981b9bff32ed8adba87232cb7"
-metafile = true
-
-[[files]]
 file = "plugins/sfcalc.pw.toml"
 hash = "22564c79495d4ba88a97a4e4fdd95dc17f28b6559af6e80a117608e2be2543e0"
 metafile = true
@@ -90,5 +85,6 @@ hash = "f2027805501e382a2db941ee8d67688ad75862e62345492583d648bddf5e8d1d"
 metafile = true
 
 [[files]]
-file = "purpur.jar"
-hash = "b4f4a6b1342cecc9225d5b832d0f2f20a486c97129d4af3d57ee9569e1ce24d7"
+file = "serverjars.pw.toml"
+hash = "689f66dc866ac211a0161c11f847f7e810e6378981b9bff32ed8adba87232cb7"
+metafile = true
