@@ -1,0 +1,7 @@
+name = "ServerJars"
+filename = "ServerJars.jar"
+
+[download]
+url = "https://github.com/songoda/ServerJars-Updater/releases/download/v3.2.2/ServerJars.jar"
+hash-format = "sha1"
+hash = "de421b42a12e5749a516b032eff38cba548c6b9a"

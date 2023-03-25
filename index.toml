@@ -50,6 +50,11 @@ hash = "c68d3c50f65cb9542f19009c5e9030a2039a4deaaf220e3b067fe9d277a214b4"
 metafile = true
 
 [[files]]
+file = "plugins/serverjars.pw.toml"
+hash = "689f66dc866ac211a0161c11f847f7e810e6378981b9bff32ed8adba87232cb7"
+metafile = true
+
+[[files]]
 file = "plugins/sfcalc.pw.toml"
 hash = "22564c79495d4ba88a97a4e4fdd95dc17f28b6559af6e80a117608e2be2543e0"
 metafile = true
