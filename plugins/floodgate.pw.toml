@@ -1,0 +1,7 @@
+name = "Floodgate"
+filename = "floodgate-spigot.jar"
+
+[download]
+url = "https://ci.opencollab.dev/job/GeyserMC/job/Floodgate/job/master/78/artifact/spigot/build/libs/floodgate-spigot.jar"
+hash-format = "sha1"
+hash = "89a8fd66598d712399ee29d96a623fd3362610a4"

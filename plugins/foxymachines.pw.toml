@@ -1,0 +1,7 @@
+name = "FoxyMachines"
+filename = "FoxyMachines-61.jar"
+
+[download]
+url = "https://thebusybiscuit.github.io/builds/GallowsDove/FoxyMachines/master/FoxyMachines-61.jar"
+hash-format = "sha1"
+hash = "72423337a43a177088248db26ec1b3929eb8cfc6"

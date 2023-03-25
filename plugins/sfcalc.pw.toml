@@ -1,0 +1,7 @@
+name = "SFCalc"
+filename = "SimpleUtils-15.jar"
+
+[download]
+url = "https://thebusybiscuit.github.io/builds/Mooy1/SimpleUtils/master/SimpleUtils-15.jar"
+hash-format = "sha1"
+hash = "f92c2d9f9e91969ee919408ea3bfdd14cd781214"

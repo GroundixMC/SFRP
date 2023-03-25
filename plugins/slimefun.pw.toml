@@ -1,0 +1,7 @@
+name = "Slimefun"
+filename = "Slimefun4-1050.jar"
+
+[download]
+url = "https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/Slimefun4-1050.jar"
+hash-format = "sha1"
+hash = "2b295e93522bbe78888e4f50ecd2e1e94754e17b"

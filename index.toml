@@ -1,0 +1,89 @@
+hash-format = "sha256"
+
+[[files]]
+file = "plugins/Themis_0.14.6.jar"
+hash = "caf8ba4d0d18944c491822d634aca886dfdb38d05a9edffe69ca06cb7ee7369a"
+
+[[files]]
+file = "plugins/coreprotect.pw.toml"
+hash = "090ebf4e36a2574fa832fc83a56a441b56c57100523b10238927c6d4097f3746"
+metafile = true
+
+[[files]]
+file = "plugins/discordsrv.pw.toml"
+hash = "5fe8a93b2dd420371d59407c1c0304dbfadb67a28e508be7ec5908d4f8520523"
+metafile = true
+
+[[files]]
+file = "plugins/extragear.pw.toml"
+hash = "56441a572335883227f1cd25dea7166e063492a83e26e342753b7c4bc143c568"
+metafile = true
+
+[[files]]
+file = "plugins/floodgate.pw.toml"
+hash = "80947052a8266b1fb8e27419d82179737bc581a65cf87a97784784f5694f8f98"
+metafile = true
+
+[[files]]
+file = "plugins/foxymachines.pw.toml"
+hash = "b1d42d2935ac880015dd678ba08673bb33f2992a4fa9dad56372c9b35642a281"
+metafile = true
+
+[[files]]
+file = "plugins/gsit.pw.toml"
+hash = "00881c593ee823d2620b4234632502866a141ab9054743e4eb08b0d01cef261c"
+metafile = true
+
+[[files]]
+file = "plugins/luckperms.pw.toml"
+hash = "a8254ed8dbdf13e112e1c2da9781496c8296287a4030b93354f51761a60b7858"
+metafile = true
+
+[[files]]
+file = "plugins/privatestorage.pw.toml"
+hash = "8d3c253d119d8221c40d790ff5f079a7d87fe1ebdb1602fc04fccc0e914cf58f"
+metafile = true
+
+[[files]]
+file = "plugins/protocollib.pw.toml"
+hash = "c68d3c50f65cb9542f19009c5e9030a2039a4deaaf220e3b067fe9d277a214b4"
+metafile = true
+
+[[files]]
+file = "plugins/sfcalc.pw.toml"
+hash = "22564c79495d4ba88a97a4e4fdd95dc17f28b6559af6e80a117608e2be2543e0"
+metafile = true
+
+[[files]]
+file = "plugins/simple-voice-chat.pw.toml"
+hash = "6f3b3e79b63082bed244c0802551257867f788c7bd0747c8158b8f7cc0b4b4cd"
+metafile = true
+
+[[files]]
+file = "plugins/simpleutils.pw.toml"
+hash = "c49258ec426e3e2f4cf2846855c3b5aae8ad38710cda44ca64596a35beb98016"
+metafile = true
+
+[[files]]
+file = "plugins/slimefun.pw.toml"
+hash = "409b0ad07856207ffe85adb8fd3afbce7c65550728393344ccf08e907c30a05b"
+metafile = true
+
+[[files]]
+file = "plugins/souljars.pw.toml"
+hash = "cc19a79d71c153c09b1b918112e769848ad2e0a8346f934eb30148f017334d84"
+metafile = true
+
+[[files]]
+file = "plugins/viaversion.pw.toml"
+hash = "9ec3703b9d8dfd136dfb573200b5b284fb978432e6364cbeaedbe89b94161f5c"
+metafile = true
+
+[[files]]
+file = "plugins/worldedit.pw.toml"
+hash = "f2027805501e382a2db941ee8d67688ad75862e62345492583d648bddf5e8d1d"
+metafile = true
+
+[[files]]
+file = "purpur.jar"
+hash = "b4f4a6b1342cecc9225d5b832d0f2f20a486c97129d4af3d57ee9569e1ce24d7"

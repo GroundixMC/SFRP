@@ -1,0 +1,13 @@
+name = "Simple Voice Chat"
+filename = "voicechat-bukkit-1.19.3-2.3.28.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/5MrR3gHW/voicechat-bukkit-1.19.3-2.3.28.jar"
+hash-format = "sha1"
+hash = "13f851d8bf421ea6a1b746cb7f9ea63ea460cc17"
+
+[update]
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "5MrR3gHW"

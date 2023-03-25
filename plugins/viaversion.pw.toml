@@ -1,0 +1,7 @@
+name = "ViaVersion"
+filename = "ViaVersion-4.6.2.jar"
+
+[download]
+url = "https://github.com/ViaVersion/ViaVersion/releases/download/4.6.2/ViaVersion-4.6.2.jar"
+hash-format = "sha1"
+hash = "8799374bd85e355c63645f4179277e69c83be690"

@@ -1,0 +1,15 @@
+name = "SFRP"
+author = "Groundix"
+version = "test"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "be8ee916787f7af96707bdd7da6a50f26e0bd42ebb72750a2c93a441d504adcf"
+
+[versions]
+minecraft = "1.19.3"
+
+[options]
+meta-folder = "plugins"

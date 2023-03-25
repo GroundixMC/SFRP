@@ -1,0 +1,7 @@
+name = "ProtocolLib"
+filename = "ProtocolLib.jar"
+
+[download]
+url = "https://ci.dmulloy2.net/job/ProtocolLib/616/artifact/target/ProtocolLib.jar"
+hash-format = "sha1"
+hash = "7d1f7d58043d85470cf52eb845032d6944e69e43"

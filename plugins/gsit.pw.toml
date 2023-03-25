@@ -1,0 +1,7 @@
+name = "GSit"
+filename = "GSit-1.4.1.jar"
+
+[download]
+url = "https://github.com/Gecolay/GSit/releases/download/1.4.1/GSit-1.4.1.jar"
+hash-format = "sha1"
+hash = "0979a036b8d9152cd60a3b80ab67a08e8d263a49"

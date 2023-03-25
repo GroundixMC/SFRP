@@ -1,0 +1,7 @@
+name = "LuckPerms"
+filename = "LuckPerms-Bukkit-5.4.67.jar"
+
+[download]
+url = "https://download.luckperms.net/1478/bukkit/loader/LuckPerms-Bukkit-5.4.67.jar"
+hash-format = "sha1"
+hash = "fec42ff18df720215cd4005c8c978b9efb9b04ea"

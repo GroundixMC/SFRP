@@ -1,0 +1,7 @@
+name = "ExtraGear"
+filename = "ExtraGear-13.jar"
+
+[download]
+url = "https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraGear/master/ExtraGear-13.jar"
+hash-format = "sha1"
+hash = "f78865c883875e7b242c6c45beb2d54f1f9781e2"

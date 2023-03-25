@@ -1,0 +1,7 @@
+name = "SoulJars"
+filename = "SoulJars-23.jar"
+
+[download]
+url = "https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SoulJars/master/SoulJars-23.jar"
+hash-format = "sha1"
+hash = "39127a88f135655840a388b804469d5e58d81c5e"

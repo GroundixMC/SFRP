@@ -1,0 +1,13 @@
+name = "DiscordSRV"
+filename = "DiscordSRV-Build-1.26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UmLGoGij/versions/D1NeVd6Q/DiscordSRV-Build-1.26.2.jar"
+hash-format = "sha1"
+hash = "75336aab64e1bf8af30cd452c5af14859701a0f0"
+
+[update]
+[update.modrinth]
+mod-id = "UmLGoGij"
+version = "D1NeVd6Q"

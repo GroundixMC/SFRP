@@ -1,0 +1,13 @@
+name = "WorldEdit for Bukkit"
+filename = "worldedit-bukkit-7.2.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d83df4d71dac7ef87d9eec21ba7ded287c436fd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4445117
+project-id = 31043

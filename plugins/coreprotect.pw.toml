@@ -1,0 +1,13 @@
+name = "CoreProtect"
+filename = "CoreProtect-21.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lu3KuzdV/versions/mvLpRWww/CoreProtect-21.3.jar"
+hash-format = "sha1"
+hash = "f36771209f036c4c1899381e16acc65cbb7a07a0"
+
+[update]
+[update.modrinth]
+mod-id = "Lu3KuzdV"
+version = "mvLpRWww"

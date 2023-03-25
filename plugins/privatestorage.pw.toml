@@ -1,0 +1,7 @@
+name = "PrivateStorage"
+filename = "PrivateStorage-18.jar"
+
+[download]
+url = "https://thebusybiscuit.github.io/builds/TheBusyBiscuit/PrivateStorage/master/PrivateStorage-18.jar"
+hash-format = "sha1"
+hash = "ce8c7d6d43875705218e37fc8c3f8a7ca547a557"
