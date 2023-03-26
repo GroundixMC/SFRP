@@ -80,11 +80,6 @@ hash = "a986ae0437448a9131368b0cc5cfcaad01eacbfae0c2b849b3b927a1d7c834a2"
 metafile = true
 
 [[files]]
-file = "plugins/viaversion.pw.toml"
-hash = "9ec3703b9d8dfd136dfb573200b5b284fb978432e6364cbeaedbe89b94161f5c"
-metafile = true
-
-[[files]]
 file = "plugins/worldedit.pw.toml"
 hash = "f2027805501e382a2db941ee8d67688ad75862e62345492583d648bddf5e8d1d"
 metafile = true
