@@ -1,0 +1,7 @@
+name = "VelocityVanish"
+filename = "VelocityVanish.v3.18.1.jar"
+
+[download]
+url = "https://github.com/Syrent/VelocityVanish/releases/download/v3.18.1/VelocityVanish.v3.18.1.jar"
+hash-format = "sha1"
+hash = "8bc004a5460233c5d3018a52578e6a5677544177"

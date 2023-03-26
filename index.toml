@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "plugins/simple-voice-chat.pw.toml"
-hash = "6f3b3e79b63082bed244c0802551257867f788c7bd0747c8158b8f7cc0b4b4cd"
+hash = "7ceebdc505bb4118556ce98ba49861af097b13e7cafa4d5a1f2eb81b9dac75ca"
 metafile = true
 
 [[files]]
@@ -75,6 +75,11 @@ hash = "cc19a79d71c153c09b1b918112e769848ad2e0a8346f934eb30148f017334d84"
 metafile = true
 
 [[files]]
+file = "plugins/velocityvanish.pw.toml"
+hash = "a986ae0437448a9131368b0cc5cfcaad01eacbfae0c2b849b3b927a1d7c834a2"
+metafile = true
+
+[[files]]
 file = "plugins/viaversion.pw.toml"
 hash = "9ec3703b9d8dfd136dfb573200b5b284fb978432e6364cbeaedbe89b94161f5c"
 metafile = true
@@ -86,4 +91,4 @@ metafile = true
 
 [[files]]
 file = "server.jar"
-hash = "b4f4a6b1342cecc9225d5b832d0f2f20a486c97129d4af3d57ee9569e1ce24d7"
+hash = "1133356e82e852ed94955252a3ef49700bf9a0b1fd9895b394dc3257982e0f42"
