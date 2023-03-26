@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "plugins/protocollib.pw.toml"
-hash = "c68d3c50f65cb9542f19009c5e9030a2039a4deaaf220e3b067fe9d277a214b4"
+hash = "63739f5035e2ad8a15987203535a940db58b3387095d6e3500dbebe8733d0242"
 metafile = true
 
 [[files]]
